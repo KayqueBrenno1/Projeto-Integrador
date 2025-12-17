@@ -2,7 +2,7 @@
 
 **Aqui estão os repositórios que foram pedidos:**
 
-- Repositório de LOPAL: [Clique aqui](https://github.com/EstephanoBorovicz/Projeto-Integrador-LOPAL);
+- Repositório de LOPAL: [Clique aqui](https://github.com/EstephanoBorovicz/estacionamais);
 - Repositório de LER: [Clique aqui](https://github.com/Edd0008/Projeto-Integrador-LER);
 - Repositório de LIMA: [Clique aqui](https://github.com/KayqueBrenno1/Projeto-Integrador-LIMA).
 
